@@ -1,2 +1,2 @@
 # Hello-world
-This repository is the world
+This repository is about the world
